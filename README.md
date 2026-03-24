@@ -1,4 +1,4 @@
-# ADK Network Issues Agent - MasOrange
+# Network Incident Investigation Agent
 
 <h2 align="center"><i>AI Agent System for Network Incident Resolution and Analysis</i></h2><br>
 
@@ -53,7 +53,7 @@
 
 ## Project Overview
 
-The **ADK Network Issues Agent for MasOrange** is an advanced AI-powered multi-agent system designed to revolutionize network incident management and resolution. Built using Google's Agent Development Kit (ADK), this system automates the analysis, classification, and resolution of network-related incidents, significantly reducing manual effort and improving response times.
+The **Network Incident Investigation Agent** is an advanced AI-powered multi-agent system designed to revolutionize network incident management and resolution. Built using Google's Agent Development Kit (ADK), this system automates the analysis, classification, and resolution of network-related incidents, significantly reducing manual effort and improving response times.
 
 The system leverages a sophisticated multi-agent architecture that coordinates specialized agents to handle different aspects of incident management, from initial categorization to root cause analysis and deviation detection.
 
@@ -112,7 +112,7 @@ This project represents a production-ready evolution from proof-of-concept to a 
 1. **Clone the Repository:**
    ```bash
    git clone <repository-url>
-   cd adk-network-issues-agent-masorange
+   cd adk-network-issues-agent
    ```
 
 2. **Install Dependencies:**
@@ -200,7 +200,7 @@ You can run these tasks using VS Code's task runner or directly via command line
 ## Project Structure
 
 ```
-adk-network-issues-agent-masorange/
+adk-network-issues-agent/
 ├── network_incident_agent/                # Main agent application
 │   ├── network_incident_agent/
 │   │   ├── __init__.py                    # Package initialization
